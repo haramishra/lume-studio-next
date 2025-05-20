@@ -6,6 +6,8 @@ import { HeroHeader } from "@/components/header";
 import FooterSection from "@/components/footer";
 import ContactSection from "@/components/contact";
 
+export const runtime = "edge";
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
