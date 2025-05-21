@@ -9,14 +9,14 @@ export default function StatsSection() {
         <div className="relative z-10 mx-auto max-w-xl space-y-6 text-center">
           <ScrollView>
             <h2 className="text-4xl font-medium lg:text-5xl">
-              Tailus UI in numbers
+              Driven by Design. Backed by Results.
             </h2>
           </ScrollView>
           <ScrollView delay={0.2}>
             <p>
-              Gemini is evolving to be more than just the models. It supports an
-              entire to the APIs and platforms helping developers and businesses
-              innovate.
+              At Lume Studio, we don’t just make things look good — we create
+              thoughtful design experiences that help businesses grow, connect
+              with their audience, and stand out in a crowded digital world.
             </p>
           </ScrollView>
         </div>
@@ -33,8 +33,8 @@ export default function StatsSection() {
               }}
               className="space-y-4"
             >
-              <div className="text-5xl font-bold">+1200</div>
-              <p>Stars on GitHub</p>
+              <div className="text-5xl font-bold">+120</div>
+              <p>Projects Launched</p>
             </motion.div>
             <motion.div
               variants={{
@@ -47,8 +47,8 @@ export default function StatsSection() {
               }}
               className="space-y-4"
             >
-              <div className="text-5xl font-bold">22 Million</div>
-              <p>Active Users</p>
+              <div className="text-5xl font-bold">40%</div>
+              <p>Average Client Growth</p>
             </motion.div>
             <motion.div
               variants={{
@@ -61,8 +61,8 @@ export default function StatsSection() {
               }}
               className="space-y-4"
             >
-              <div className="text-5xl font-bold">+500</div>
-              <p>Powered Apps</p>
+              <div className="text-5xl font-bold">5+</div>
+              <p>Years in the Game</p>
             </motion.div>
           </div>
         </ScrollView>

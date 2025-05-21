@@ -175,7 +175,7 @@ export default function FooterSection() {
         <ScrollView delay={0.2} viewMargin="0px 0px -20px 0px">
           <span className="text-muted-foreground block text-center text-sm">
             {" "}
-            © {new Date().getFullYear()} Tailus UI, All rights reserved
+            © {new Date().getFullYear()} Lume Studio, All rights reserved
           </span>
         </ScrollView>
       </div>

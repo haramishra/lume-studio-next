@@ -1,6 +1,19 @@
 {
   "name": "lume-studio",
   "version": "0.1.0",
+  "description": "A Design agency template built with Next.js.",
+  "keywords": [
+    "kohi studio",
+    "nextjs",
+    "template",
+    "free nextjs template"
+  ],
+  "author": "Kohi Studio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kohistudio/lume-studio-template"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",

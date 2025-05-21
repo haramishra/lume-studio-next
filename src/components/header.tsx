@@ -97,7 +97,10 @@ export const HeroHeader = () => {
                   size="sm"
                   className={cn(isScrolled && "lg:hidden")}
                 >
-                  <Link href="#">
+                  <Link
+                    href="https://github.com/haramishra/lume-studio-next"
+                    target="_blank"
+                  >
                     <span>Get in Touch</span>
                   </Link>
                 </Button>
@@ -106,8 +109,11 @@ export const HeroHeader = () => {
                   size="sm"
                   className={cn(isScrolled ? "lg:inline-flex" : "hidden")}
                 >
-                  <Link href="#">
-                    <span>Get Started</span>
+                  <Link
+                    href="https://github.com/haramishra/lume-studio-next"
+                    target="_blank"
+                  >
+                    <span>Contact Us</span>
                   </Link>
                 </Button>
               </div>
